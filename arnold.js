@@ -15,6 +15,4 @@ var ajsProgram =
 
 var jsProgram = arnoldjs.transpile(ajsProgram); //stores ";"
 
-console.log(jsProgram)
-
-const poo = eval(jsProgram)
+eval(jsProgram)

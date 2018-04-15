@@ -8,8 +8,11 @@ My first step into an exciting new world of a up and coming programming language
 			"TALK TO THE HAND GIVE THESE PEOPLE AIR PLEASE ENOUGH TALK" +
 		"HASTA LA VISTA BABY" +
 	"TERMINATED MATE" +
-	"GIVE THESE PEOPLE AIR"+ "'ARNY'" +
-"ENOUGH TALK"
+	"GIVE THESE PEOPLE AIR"+ 
+
+	"'GET TO THE CHOPPA!'" +
+
+"ENOUGH TALK"	
 ```	
 https://www.youtube.com/watch?v=cXqURw6oahc
 

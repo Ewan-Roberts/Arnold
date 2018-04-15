@@ -18,6 +18,12 @@ My first step into an exciting new world of a up and coming programming language
 	
 	"'GET TO THE CHOPPA!'" +
 	
+"ENOUGH TALK"
+
+"TALK TO THE HAND GIVE THESE PEOPLE AIR" +
+	
+	"YOU HAVE NO RESPECT FOR LOGIC!"+ 
+
 "ENOUGH TALK"	
 
 ```	

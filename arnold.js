@@ -7,7 +7,10 @@ var ajsProgram =
 			"TALK TO THE HAND GIVE THESE PEOPLE AIR PLEASE ENOUGH TALK" +
 		"HASTA LA VISTA BABY" +
 	"TERMINATED MATE" +
-	"GIVE THESE PEOPLE AIR"+ "'ARNY'" +
+	"GIVE THESE PEOPLE AIR"+ 
+
+	"'GET TO THE CHOPPA!'" +
+
 "ENOUGH TALK"	
 
 var jsProgram = arnoldjs.transpile(ajsProgram); //stores ";"

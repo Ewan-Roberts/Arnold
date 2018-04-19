@@ -1,5 +1,7 @@
 # Arnold
 
+**This should not be used as a respresentation of my coding, this was for fun and fast**
+
 My first step into an exciting new world of a up and coming programming language:
 
 ```
